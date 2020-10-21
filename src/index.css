@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 80%;
+  font-size: 62.5%;
 }
 
 body {
@@ -43,6 +43,10 @@ h6 {
 
 .search-bar {
   margin-bottom: 2rem;
+}
+
+.search-bar .form-control {
+  font-size: 90%;
 }
 
 .video-item {
